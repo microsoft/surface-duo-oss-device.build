@@ -1,0 +1,11 @@
+{
+    "lahaina-qgki-debug_defconfig": {
+        "vendor_ramdisk_kernel_modules": " proxy-consumer.ko clk-qcom.ko clk-dummy.ko cqhci-crypto.ko cqhci.ko qcom-pdc.ko pinctrl-msm.ko hwkm.ko crypto-qti-hwkm.ko pinctrl-yupik.ko cmd-db.ko qcom_rpmh.ko icc-bcm-voter.ko qpnp-power-on.ko clk-rpmh.ko _qcom_scm.ko secure_buffer.ko gcc-yupik.ko memory_dump_v2.ko qnoc-qos.ko icc-rpmh.ko qnoc-yupik.ko iommu-logger.ko refgen.ko crypto-qti-common.ko ufshcd-crypto-qti.ko qnoc-lahaina.ko msm-poweroff.ko phy-qcom-ufs.ko phy-qcom-ufs-qrbtc-sdm845.ko phy-qcom-ufs-qmp-v4-yupik.ko qcom-arm-smmu-mod.ko qnoc-shima.ko rpmh-regulator.ko stub-regulator.ko gcc-lahaina.ko cqhci-crypto-qti.ko ufs-qcom.ko pinctrl-lahaina.ko sdhci-msm.ko phy-qcom-ufs-qmp-v4-lahaina.ko gcc-shima.ko pinctrl-shima.ko rpmhpd.ko "
+    },
+    "lahaina-qgki_defconfig": {
+        "vendor_ramdisk_kernel_modules": " proxy-consumer.ko clk-qcom.ko clk-dummy.ko cqhci-crypto.ko cqhci.ko qcom-pdc.ko pinctrl-msm.ko hwkm.ko crypto-qti-hwkm.ko pinctrl-yupik.ko cmd-db.ko qcom_rpmh.ko icc-bcm-voter.ko qpnp-power-on.ko clk-rpmh.ko _qcom_scm.ko secure_buffer.ko gcc-yupik.ko memory_dump_v2.ko qnoc-qos.ko icc-rpmh.ko qnoc-yupik.ko iommu-logger.ko refgen.ko crypto-qti-common.ko ufshcd-crypto-qti.ko qnoc-lahaina.ko msm-poweroff.ko phy-qcom-ufs.ko phy-qcom-ufs-qrbtc-sdm845.ko phy-qcom-ufs-qmp-v4-yupik.ko qcom-arm-smmu-mod.ko qnoc-shima.ko rpmh-regulator.ko stub-regulator.ko gcc-lahaina.ko cqhci-crypto-qti.ko ufs-qcom.ko pinctrl-lahaina.ko sdhci-msm.ko phy-qcom-ufs-qmp-v4-lahaina.ko gcc-shima.ko pinctrl-shima.ko rpmhpd.ko "
+    },
+    "lahaina-gki_defconfig": {
+        "vendor_ramdisk_kernel_modules": " proxy-consumer.ko clk-qcom.ko clk-dummy.ko cqhci-crypto.ko cqhci.ko qcom-pdc.ko pinctrl-msm.ko hwkm.ko crypto-qti-hwkm.ko pinctrl-yupik.ko cmd-db.ko qcom_rpmh.ko icc-bcm-voter.ko qpnp-power-on.ko clk-rpmh.ko _qcom_scm.ko secure_buffer.ko gcc-yupik.ko memory_dump_v2.ko qnoc-qos.ko icc-rpmh.ko qnoc-yupik.ko iommu-logger.ko refgen.ko crypto-qti-common.ko ufshcd-crypto-qti.ko qnoc-lahaina.ko msm-poweroff.ko phy-qcom-ufs.ko phy-qcom-ufs-qrbtc-sdm845.ko phy-qcom-ufs-qmp-v4-yupik.ko qcom-arm-smmu-mod.ko qnoc-shima.ko rpmh-regulator.ko stub-regulator.ko gcc-lahaina.ko cqhci-crypto-qti.ko ufs-qcom.ko pinctrl-lahaina.ko sdhci-msm.ko phy-qcom-ufs-qmp-v4-lahaina.ko gcc-shima.ko pinctrl-shima.ko rpmhpd.ko "
+    }
+}
